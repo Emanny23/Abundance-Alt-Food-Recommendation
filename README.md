@@ -1,6 +1,6 @@
 # Abundance-Alt-Food-Recommendation
 
-### Purpose of Project
+### Purpose of MVP
 
 
 ## Methodology
