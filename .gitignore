@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -175,5 +176,13 @@ cython_debug/
 
 
 
-.DS_Store
+
 *.csv
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+>>>>>>> 507f62b (Initial commit with clean setup)
