@@ -106,7 +106,7 @@ st.image("https://abundance.coop/wp-content/uploads/2020/04/AbundanceLogoWeb.png
 st.title("Abundance Food Co-op Alternate Product Recommender Generator")
 
 st.markdown(
-    """This is an alternative product recommender tool for matching products that are similar in ingredients and overall product type."""
+    """This is an alternative product recommender tool for matching products that are similar In Ingredients and overall product type."""
 )
 
 # Upload CSV
