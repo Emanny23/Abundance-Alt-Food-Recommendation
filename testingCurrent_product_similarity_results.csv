@@ -1,0 +1,81 @@
+inv_pk,inv_scancode,original_product,similar_product,similarity_score,similar_inv_pk,similar_inv_scancode,similar_brd_name,similar_dpt_name
+43746,23923300347,winter squash og,pouch squash & sweet pea,0.999616005,43750,23923330344,Earth's Best                  ,Packaged Grocery              
+43750,23923330344,pouch squash & sweet pea,winter squash og,0.999616005,43746,23923300347,Earth's Best                  ,Packaged Grocery              
+12108,94046,organic avocados,organic mangoes,0.99984898,12168,94051,Produce                       ,Produce                       
+12108,94046,organic avocados,organic navel oranges,0.999773448,18182,93107,Produce                       ,Produce                       
+12108,94046,organic avocados,organic gold beets,0.999735726,12111,94537,Produce                       ,Produce                       
+12108,94046,organic avocados,organic red kale,0.999697956,27821,94621,Produce                       ,Produce                       
+12108,94046,organic avocados,organic russet potatoes,0.999660217,12225,94072,Produce                       ,Produce                       
+12108,94046,organic avocados,organic red potatoes,0.999660217,12224,94073,Produce                       ,Produce                       
+12108,94046,organic avocados,organic yukon gold potatoes,0.999622482,12226,94727,Produce                       ,Produce                       
+18182,93107,organic navel oranges,organic mangoes,0.999773468,12168,94051,Produce                       ,Produce                       
+18182,93107,organic navel oranges,organic avocados,0.999773448,12108,94046,Produce                       ,Produce                       
+18182,93107,organic navel oranges,organic red kale,0.999622445,27821,94621,Produce                       ,Produce                       
+12168,94051,organic mangoes,organic avocados,0.99984898,12108,94046,Produce                       ,Produce                       
+12168,94051,organic mangoes,organic navel oranges,0.999773468,18182,93107,Produce                       ,Produce                       
+37593,7239,organic ground chipotle,organic ground turmeric root,0.999888621,9968,7185,Frontier Coop                 ,Bulk                          
+37593,7239,organic ground chipotle,organic dill weed,0.999851489,9867,7081,Frontier Coop                 ,Bulk                          
+37593,7239,organic ground chipotle,cream of tartar,0.999777233,9860,7074,Frontier Coop                 ,Bulk                          
+37593,7239,organic ground chipotle,organic rosehips,0.999777219,9948,7164,Frontier Coop                 ,Bulk                          
+37593,7239,organic ground chipotle,organic low-sodium vegetable broth powder,0.999740141,9813,7025,Frontier Coop                 ,Bulk                          
+37593,7239,organic ground chipotle,organo mediterranean oregano leaf,0.999740116,9928,7144,Frontier Coop                 ,Bulk                          
+9813,7025,organic low-sodium vegetable broth powder,organic ground chipotle,0.999740141,37593,7239,Frontier Coop                 ,Bulk                          
+9813,7025,organic low-sodium vegetable broth powder,organic dill weed,0.999740141,9867,7081,Frontier Coop                 ,Bulk                          
+9813,7025,organic low-sodium vegetable broth powder,organic ground turmeric root,0.999703025,9968,7185,Frontier Coop                 ,Bulk                          
+9813,7025,organic low-sodium vegetable broth powder,cream of tartar,0.999665893,9860,7074,Frontier Coop                 ,Bulk                          
+9813,7025,organic low-sodium vegetable broth powder,organic rosehips,0.999665879,9948,7164,Frontier Coop                 ,Bulk                          
+9813,7025,organic low-sodium vegetable broth powder,organo mediterranean oregano leaf,0.99962878,9928,7144,Frontier Coop                 ,Bulk                          
+9860,7074,cream of tartar,organic ground chipotle,0.999777233,37593,7239,Frontier Coop                 ,Bulk                          
+9860,7074,cream of tartar,organic dill weed,0.999777233,9867,7081,Frontier Coop                 ,Bulk                          
+9860,7074,cream of tartar,organo mediterranean oregano leaf,0.999740116,9928,7144,Frontier Coop                 ,Bulk                          
+9860,7074,cream of tartar,organic ground turmeric root,0.999740116,9968,7185,Frontier Coop                 ,Bulk                          
+9860,7074,cream of tartar,organic rosehips,0.999702958,9948,7164,Frontier Coop                 ,Bulk                          
+9860,7074,cream of tartar,organic low-sodium vegetable broth powder,0.999665893,9813,7025,Frontier Coop                 ,Bulk                          
+9867,7081,organic dill weed,organic ground chipotle,0.999851489,37593,7239,Frontier Coop                 ,Bulk                          
+9867,7081,organic dill weed,organic ground turmeric root,0.999814369,9968,7185,Frontier Coop                 ,Bulk                          
+9867,7081,organic dill weed,cream of tartar,0.999777233,9860,7074,Frontier Coop                 ,Bulk                          
+9867,7081,organic dill weed,organic rosehips,0.999777219,9948,7164,Frontier Coop                 ,Bulk                          
+9867,7081,organic dill weed,organic low-sodium vegetable broth powder,0.999740141,9813,7025,Frontier Coop                 ,Bulk                          
+9867,7081,organic dill weed,organo mediterranean oregano leaf,0.999740116,9928,7144,Frontier Coop                 ,Bulk                          
+9928,7144,organo mediterranean oregano leaf,organic ground chipotle,0.999740116,37593,7239,Frontier Coop                 ,Bulk                          
+9928,7144,organo mediterranean oregano leaf,cream of tartar,0.999740116,9860,7074,Frontier Coop                 ,Bulk                          
+9928,7144,organo mediterranean oregano leaf,organic dill weed,0.999740116,9867,7081,Frontier Coop                 ,Bulk                          
+9928,7144,organo mediterranean oregano leaf,organic ground turmeric root,0.999703,9968,7185,Frontier Coop                 ,Bulk                          
+9928,7144,organo mediterranean oregano leaf,organic rosehips,0.999665844,9948,7164,Frontier Coop                 ,Bulk                          
+9928,7144,organo mediterranean oregano leaf,organic low-sodium vegetable broth powder,0.99962878,9813,7025,Frontier Coop                 ,Bulk                          
+9948,7164,organic rosehips,organic ground chipotle,0.999777219,37593,7239,Frontier Coop                 ,Bulk                          
+9948,7164,organic rosehips,organic dill weed,0.999777219,9867,7081,Frontier Coop                 ,Bulk                          
+9948,7164,organic rosehips,organic ground turmeric root,0.999740102,9968,7185,Frontier Coop                 ,Bulk                          
+9948,7164,organic rosehips,cream of tartar,0.999702958,9860,7074,Frontier Coop                 ,Bulk                          
+9948,7164,organic rosehips,organic low-sodium vegetable broth powder,0.999665879,9813,7025,Frontier Coop                 ,Bulk                          
+9948,7164,organic rosehips,organo mediterranean oregano leaf,0.999665844,9928,7144,Frontier Coop                 ,Bulk                          
+9968,7185,organic ground turmeric root,organic ground chipotle,0.999888621,37593,7239,Frontier Coop                 ,Bulk                          
+9968,7185,organic ground turmeric root,organic dill weed,0.999814369,9867,7081,Frontier Coop                 ,Bulk                          
+9968,7185,organic ground turmeric root,cream of tartar,0.999740116,9860,7074,Frontier Coop                 ,Bulk                          
+9968,7185,organic ground turmeric root,organic rosehips,0.999740102,9948,7164,Frontier Coop                 ,Bulk                          
+9968,7185,organic ground turmeric root,organic low-sodium vegetable broth powder,0.999703025,9813,7025,Frontier Coop                 ,Bulk                          
+9968,7185,organic ground turmeric root,organo mediterranean oregano leaf,0.999703,9928,7144,Frontier Coop                 ,Bulk                          
+12226,94727,organic yukon gold potatoes,organic russet potatoes,0.999886755,12225,94072,Produce                       ,Produce                       
+12226,94727,organic yukon gold potatoes,organic red potatoes,0.999886755,12224,94073,Produce                       ,Produce                       
+12226,94727,organic yukon gold potatoes,organic gold beets,0.999660263,12111,94537,Produce                       ,Produce                       
+12226,94727,organic yukon gold potatoes,organic avocados,0.999622482,12108,94046,Produce                       ,Produce                       
+12225,94072,organic russet potatoes,organic red potatoes,0.9999245,12224,94073,Produce                       ,Produce                       
+12225,94072,organic russet potatoes,organic yukon gold potatoes,0.999886755,12226,94727,Produce                       ,Produce                       
+12225,94072,organic russet potatoes,organic avocados,0.999660217,12108,94046,Produce                       ,Produce                       
+12225,94072,organic russet potatoes,organic gold beets,0.999622499,12111,94537,Produce                       ,Produce                       
+12224,94073,organic red potatoes,organic russet potatoes,0.9999245,12225,94072,Produce                       ,Produce                       
+12224,94073,organic red potatoes,organic yukon gold potatoes,0.999886755,12226,94727,Produce                       ,Produce                       
+12224,94073,organic red potatoes,organic red kale,0.999660237,27821,94621,Produce                       ,Produce                       
+12224,94073,organic red potatoes,organic avocados,0.999660217,12108,94046,Produce                       ,Produce                       
+12224,94073,organic red potatoes,organic gold beets,0.999622499,12111,94537,Produce                       ,Produce                       
+27821,94621,organic red kale,organic avocados,0.999697956,12108,94046,Produce                       ,Produce                       
+27821,94621,organic red kale,organic red potatoes,0.999660237,12224,94073,Produce                       ,Produce                       
+27821,94621,organic red kale,organic gold beets,0.999660237,12111,94537,Produce                       ,Produce                       
+27821,94621,organic red kale,organic navel oranges,0.999622445,18182,93107,Produce                       ,Produce                       
+12111,94537,organic gold beets,organic avocados,0.999735726,12108,94046,Produce                       ,Produce                       
+12111,94537,organic gold beets,organic yukon gold potatoes,0.999660263,12226,94727,Produce                       ,Produce                       
+12111,94537,organic gold beets,organic red kale,0.999660237,27821,94621,Produce                       ,Produce                       
+12111,94537,organic gold beets,organic russet potatoes,0.999622499,12225,94072,Produce                       ,Produce                       
+12111,94537,organic gold beets,organic red potatoes,0.999622499,12224,94073,Produce                       ,Produce                       
+42085,7.16E+11,sweet drops caramel,sweet drops vanilla,0.999711682,42089,7.16E+11,Sweet Leaf                    ,Packaged Grocery              
+42089,7.16E+11,sweet drops vanilla,sweet drops caramel,0.999711682,42085,7.16E+11,Sweet Leaf                    ,Packaged Grocery              

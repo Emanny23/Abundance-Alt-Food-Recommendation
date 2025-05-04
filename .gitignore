@@ -177,7 +177,7 @@ cython_debug/
 
 
 
-*.csv
+
 
 venv/
 __pycache__/
